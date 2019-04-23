@@ -22,6 +22,6 @@ def last_evaluated_value(last = "expert")
   last
 end
 
-def pizza_party(type = "Cheese")
+def pizza_party(type = "cheese")
   type
 end
